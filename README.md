@@ -25,7 +25,7 @@ The console prints out useful information during the boot, including the wifi pa
 
 
 ## Easy Flag
-This one here is on the front-page of the webserevr... simple as that. If you don't know where to connect to, you would want to check DHCP and see which network you are in. Then port scan the default gateway (the badge) and find that it is listening with a web-server on port 80. 
+This one here is on the front-page of the webserver... simple as that. If you don't know where to connect to, you would want to check DHCP and see which network you are in. Then port scan the default gateway (the badge) and find that it is listening with a web-server on port 80. 
 
 ![{A3CA03AA-6E3B-424E-8489-0B7E3CFF0FEA}](https://github.com/user-attachments/assets/e0b1994d-6339-429c-b962-877cc7e5384f)
 

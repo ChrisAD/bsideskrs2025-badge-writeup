@@ -105,7 +105,9 @@ Thanks for fun challenge.
 
 ![{945D37C0-C647-46CE-AF68-8DB88C6103AC}](https://github.com/user-attachments/assets/fa26b25d-e2e7-4c66-baf3-aa89510dd5ed)
 
-Questions? Reach out on LinkedIn: http://linkedin.com/in/chrisdale 
+https://youtube.com/shorts/zKIwzFcXHzs
+
+Questions? Reach out on LinkedIn or somewhere else: http://linkedin.com/in/chrisdale 
 
 
 
